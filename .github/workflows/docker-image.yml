@@ -11,7 +11,7 @@ jobs:
   build:
     env:
       IDENTIFICACAO_ALUNO: aluno40
-      DIRETORIO_WEBAPP: SiteContagem
+      DIRETORIO_WEBAPP: APIContagem
 
     runs-on: ubuntu-latest
 
